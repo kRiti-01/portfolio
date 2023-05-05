@@ -39,13 +39,13 @@ window.onscroll = () => {
            
         };
 
-      //   scroll reveall
-      ScrollReveal({
-          reset: true,
-          distance: '80px',
-          duration: 2000,
-          delay: 100
-      });
+      // //   scroll reveall
+      // ScrollReveal({
+      //     reset: true,
+      //     distance: '80px',
+      //     duration: 2000,
+      //     delay: 100
+      // });
 
-      ScrollReveal().reveal('.home-content, .heading', { origin: 'top' });
-      ScrollReveal().reveal('cuboid, .project-container, .portfolio-box, .contact form' , { origin: 'bottom' });
+      // ScrollReveal().reveal('.home-content, .heading', { origin: 'top' });
+      // ScrollReveal().reveal('cuboid, .project-container, .portfolio-box, .contact form' , { origin: 'bottom' });
